@@ -8,4 +8,4 @@ body:
   - id: issuebody
     type: textareai
     attributes:
-	label: bug
+        label: bug
