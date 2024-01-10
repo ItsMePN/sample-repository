@@ -9,6 +9,6 @@ body:
   type: markdown
   attributes:
     value: "Thanks for taking the time to fill out this bug!"
-- type: markdown
+- type: textarea
   attributes:
     label: "What's wrong?"
