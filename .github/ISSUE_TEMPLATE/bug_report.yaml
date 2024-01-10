@@ -3,12 +3,12 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - prasadnevase
+- prasadnevase
 body:
-  - id: issuebody
+- id: issuebody
   type: markdown
   attributes:
     value: "Thanks for taking the time to fill out this bug!"
-  - type: textarea
+- type: textarea
     attributes:
       label: "What's wrong?"
