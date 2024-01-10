@@ -6,4 +6,6 @@ assignees:
   - prasadnevase
 body:
   - id: issuebody
-  - type: textarea
+    type: textareai
+    attributes:
+	label: bug
