@@ -6,9 +6,9 @@ assignees:
   - prasadnevase
 body:
   - id: issuebody
-    type: markdown
-    attributes:
-        value: "Thanks for taking the time to fill out this bug!"
+  type: markdown
+  attributes:
+    value: "Thanks for taking the time to fill out this bug!"
   - type: textarea
     attributes:
-        label: "What's wrong?"
+      label: "What's wrong?"
