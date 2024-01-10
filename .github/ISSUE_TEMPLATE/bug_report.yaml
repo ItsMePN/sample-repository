@@ -8,4 +8,4 @@ body:
   - id: issuebody
     type: markdown
     attributes:
-        label: bug
+        value: "Thanks for taking the time to fill out this bug!"
