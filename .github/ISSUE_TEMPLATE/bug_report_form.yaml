@@ -33,7 +33,7 @@ body:
     attributes:
       label: System information
       description: Steps to reproduce if any.
-    - id: sysinfo
+  - id: sysinfo
       validations:
       required: true
   - type: textarea
