@@ -29,11 +29,11 @@ body:
         4. See error
     validations:
       required: true
-  - type: textarea
+  - id: sysinfo
+    type: textarea
     attributes:
       label: System information
       description: Steps to reproduce if any.
-  - id: sysinfo
       validations:
       required: true
   - type: textarea
